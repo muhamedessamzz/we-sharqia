@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="WeSharkia.API/WeSharkia.API.csproj" />
+  <Project Path="WeSharkia.Application/WeSharkia.Application.csproj" />
+  <Project Path="WeSharkia.Domain/WeSharkia.Domain.csproj" />
+  <Project Path="WeSharkia.Infrastructure/WeSharkia.Infrastructure.csproj" />
+</Solution>
